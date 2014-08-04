@@ -1,0 +1,4 @@
+some file to testpull
+this one started in ~/tutorials/git/testproject
+we added this text, followed by git add, git commit and a git push
+ 
